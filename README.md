@@ -1,3 +1,6 @@
+<img src="Picture.png">
+
+
 # About us
 Aroma is an Open Source instant messaging service designed at [IIS A. Avogadro](https://www.sito.itisavogadro.org) by a group of students. It revolves around the Aroma Protocol, a set of rules that dictate how an Aroma Server and a Client communicate.
 
