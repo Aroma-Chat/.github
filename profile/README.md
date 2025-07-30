@@ -10,4 +10,4 @@ We provide Reference Implementations for all our products in the form of clients
 
 We are also commited to publishing all our source code on this GitHub Organization under Free or Open Source licenses to provide developers with in-depth knowledge of our platofrms and allow them to improve, extend and audit our code in a cooperative and inclusive manner.
 
-<img src="../Picture.png">
+<img src="https://github.com/Aroma-Chat/.github/Picture.png">
